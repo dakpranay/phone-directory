@@ -1,0 +1,12 @@
+.label{
+    color: gray;
+}
+
+.SubHeading{
+    color: darkblue;
+    font-weight: bolder;
+}
+
+.input{
+    padding:5px;
+}

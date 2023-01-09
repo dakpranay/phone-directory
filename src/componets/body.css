@@ -1,0 +1,24 @@
+.body{
+    margin:10px;
+}
+
+.namebody{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+
+
+.Name{
+    width: 30%;
+    color: gray;
+    margin-top: 5px;
+}
+
+.Phone{
+    width: 30%;
+    color: gray;
+    margin-top: 5px;
+    
+}

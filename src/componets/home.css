@@ -1,0 +1,49 @@
+.body{
+    margin:10px;
+}
+
+
+.namebody{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.addButton{
+    padding: 7px;
+    width: 60px;
+    border: none;
+    background: #7ab97a;
+    color: #fff;  
+    cursor: pointer;
+}
+
+.name{
+    width: 30%;
+}
+
+.phone{
+    width: 30%;
+}
+
+.deleteButton{
+    background-color: orange;
+    border: none;
+    padding: 5px;
+    margin: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+.Name{
+    width: 30%;
+    color: gray;
+    margin-top: 5px;
+}
+
+.Phone{
+    width: 30%;
+    color: gray;
+    margin-top: 5px;
+    
+}

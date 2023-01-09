@@ -1,0 +1,11 @@
+
+.addButton{
+    padding: 7px;
+    width: 60px;
+    border: none;
+    background: #7ab97a;
+    color: #fff;  
+    cursor: pointer;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}

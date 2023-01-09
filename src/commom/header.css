@@ -1,0 +1,9 @@
+.Header{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    font-size: larger;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
